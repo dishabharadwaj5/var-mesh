@@ -169,7 +169,7 @@ http://localhost:8080
 # **Team**
 ```
 Disha Bharadwaj
-Harshini Dharaniraj
+Harshini Dharniraj
 Dhriti Jamadagni
 ```
 
